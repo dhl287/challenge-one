@@ -77,36 +77,6 @@ p {
     margin-left: 20px;
 }
 
-.benefits {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
-}
-
-/* removed the three different benefit classes and consolidated to .benefit-list class */
-.benefit-list {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-/* removed the three different benefit h3 classes and consolidated to .benefit-list h3 class */
-.benefit-list h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-/* removed the three different benefit img classes and consolidated to .benefit-list img class */
-.benefit-list img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px
-}
-
 /* removed .search-engine-optimization and .social-media-marketing classes and created the .article-left class for both articles */
 .article-left {
     margin-bottom: 20px;
@@ -151,6 +121,36 @@ p {
 .article-right h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+/* removed the three different benefit classes and consolidated to .benefit-list class */
+.benefit-list {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/* removed the three different benefit h3 classes and consolidated to .benefit-list h3 class */
+.benefit-list h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* removed the three different benefit img classes and consolidated to .benefit-list img class */
+.benefit-list img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px
 }
 
 /* changed .footer to footer since footer is not a class anymore */
