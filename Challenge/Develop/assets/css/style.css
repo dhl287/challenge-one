@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* changed .header to header since header is not a class anymore */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +16,18 @@ header {
     color: #ffffff;
 }
 
+/* changed .header to header since header is not a class anymore */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* changed .header to header since header is not a class anymore */
 header h1 .seo {
     color: #d9dcd6;
 }
 
+/* changed div to nav to indicate navigation bar and added display: inline to show list of items on the same line */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -33,6 +37,7 @@ header nav {
     display: inline;
 }
 
+/* changed .header to header since header is not a class anymore and added the CSS properties of li */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -48,6 +53,7 @@ p {
     font-size: 16px;
 }
 
+/* changed .hero to #hero to indicate unique id, added display: flex, and added image link to html */
 #hero {
     height: 800px;
     width: 100%;
@@ -57,12 +63,14 @@ p {
     display: flex;
 }
 
+/* added #hero img to add specific CSS properties to the image within the hero unique id */
 #hero img { 
     display: flex;
     flex-wrap: wrap;
     flex: 1 1 100%;
 }
 
+/* removed .float-left and .float-right and added their CSS properties to different classes */
 .content {
     width: 75%;
     display: inline-block;
@@ -80,22 +88,26 @@ p {
     background-color: #2589bd;
 }
 
+/* removed the three different benefit classes and consolidated to .benefit-list class */
 .benefit-list {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* removed the three different benefit h3 classes and consolidated to .benefit-list h3 class */
 .benefit-list h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* removed the three different benefit img classes and consolidated to .benefit-list img class */
 .benefit-list img {
     display: block;
     margin: 10px auto;
     max-width: 150px
 }
 
+/* removed .search-engine-optimization and .social-media-marketing classes and created the .article-left class for both articles */
 .article-left {
     margin-bottom: 20px;
     padding: 50px;
@@ -105,6 +117,7 @@ p {
     color: #ffffff;
 }
 
+/* removed .online-reputation-management class and created the .article-right class for this particular article */
 .article-right {
     margin-bottom: 20px;
     padding: 50px;
@@ -114,28 +127,33 @@ p {
     color: #ffffff;
 }
 
+/* removed .search-engine-optimization img and .social-media-marketing img classes and created the .article-left img class for both articles, images are placed on left side inside article */
 .article-left img {
     max-height: 200px;
     float: left;
     margin-right: 25px;
 }
 
+/* removed .online-reputation-management img class and created the .article-right img class for this particular article, image is placed on right side inside article */
 .article-right img {
     max-height: 200px;
     float: right;
     margin-left: 25px;
 }
 
+/* removed .search-engine-optimization img and .social-media-marketing h2 classes and created the .article-left h2 class for both articles */
 .article-left h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* removed .online-reputation-management h2 class and created the .article-right h2 class for this particular article */
 .article-right h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* changed .footer to footer since footer is not a class anymore */
 footer {
     padding: 30px;
     clear: both;
@@ -143,6 +161,7 @@ footer {
     text-align: center;
 }
 
+/* changed .footer to footer since footer is not a class anymore */
 footer h2 {
     font-size: 20px;
 }
