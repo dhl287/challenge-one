@@ -61,6 +61,7 @@ p {
     background-size: cover;
     background-position: center;
     display: flex;
+    flex: 1 1 100%;
 }
 
 /* added #hero img to add specific CSS properties to the image within the hero unique id */
@@ -68,6 +69,7 @@ p {
     display: flex;
     flex-wrap: wrap;
     flex: 1 1 100%;
+    align-items: center;
 }
 
 /* removed .float-left and .float-right and added their CSS properties to different classes */
@@ -85,6 +87,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+
 }
 
 /* removed .online-reputation-management class and created the .article-right class for this particular article */
@@ -102,6 +105,7 @@ p {
     max-height: 200px;
     float: left;
     margin-right: 25px;
+
 }
 
 /* removed .online-reputation-management img class and created the .article-right img class for this particular article, image is placed on right side inside article */
