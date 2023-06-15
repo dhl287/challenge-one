@@ -6,7 +6,7 @@ This challenge required me to to refactor an existing site to make it more acces
 
 ## Installation
 
-The website provided was an existing site that is intended to function the same before and after refactoring. My responsibility is to create a new repository on gitHub, commit and push any changes to the repository, and deploy to GitHub Pages to view the website live.
+The website provided was an existing site that is intended to function the same before and after refactoring. My responsibility is to create a new repository on gitHub, commit and push any changes to the repository, and deploy to GitHub Pages to view the website live. The updates to the code are available on index.html, located in the main folder and style.css, located in the assets folder.
 
 ## Usage
 
