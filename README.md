@@ -10,13 +10,16 @@ The website provided was an existing site that is intended to function the same 
 
 ## Usage
 
-The website will be deployed with better web accessibility. Provide instructions and examples for use. Include screenshots as needed.
+The website will be deployed with better web accessibility. When you click the items on the navigation bar, the page will move to the appropriate section. 
+
+![image](https://github.com/dhl287/challenge-one/assets/133473429/e9cb6153-8d81-4569-8e8f-c778c97efc32)
+![image](https://github.com/dhl287/challenge-one/assets/133473429/0fc1737e-1698-444f-bcbd-f02febe50c85)
 
 ## Credits
 
-https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide was used to create the README template.
+[The GitHub Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) was used to create the README template.
 
-I also worked with Frank Romero on refactoring the existing code but worked independently in making any further changes and drafting the README. 
+I also worked with [Frank Romero](https://github.com/FROMERO63) on refactoring the existing code but worked independently in making any further changes and drafting the README. 
 
 ## License
 
