@@ -10,9 +10,9 @@ The website provided was an existing site that is intended to function the same 
 
 ## Usage
 
-The website will be deployed with better web accessibility. When you click the items on the navigation bar, the page will move to the appropriate section. 
+The website will be deployed with better web accessibility and consolidated and easy-to-interpret code. When you click the items on the navigation bar, the page will move to the appropriate section. 
 
-![image](https://github.com/dhl287/challenge-one/assets/133473429/e9cb6153-8d81-4569-8e8f-c778c97efc32)
+![image](https://github.com/dhl287/challenge-one/assets/133473429/ed225d57-653c-4fa3-96e9-cac569f6bf1e)
 ![image](https://github.com/dhl287/challenge-one/assets/133473429/0fc1737e-1698-444f-bcbd-f02febe50c85)
 
 ## Credits
