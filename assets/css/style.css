@@ -53,23 +53,14 @@ p {
     font-size: 16px;
 }
 
-/* changed .hero to #hero to indicate unique id, added display: flex, and added image link to html */
-#hero {
+
+.hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
-    display: flex;
-    flex: 1 1 100%;
-}
-
-/* added #hero img to add specific CSS properties to the image within the hero unique id */
-#hero img { 
-    display: flex;
-    flex-wrap: wrap;
-    flex: 1 1 100%;
-    align-items: center;
 }
 
 /* removed .float-left and .float-right and added their CSS properties to different classes */
@@ -79,19 +70,8 @@ p {
     margin-left: 20px;
 }
 
-/* removed .search-engine-optimization and .social-media-marketing classes and created the .article-left class for both articles */
-.article-left {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-
-}
-
-/* removed .online-reputation-management class and created the .article-right class for this particular article */
-.article-right {
+/* changed class to id in html and reflected changes in css */
+#search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -100,29 +80,61 @@ p {
     color: #ffffff;
 }
 
-/* removed .search-engine-optimization img and .social-media-marketing img classes and created the .article-left img class for both articles, images are placed on left side inside article */
-.article-left img {
+/* changed class to id in html and reflected changes in css */
+#online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* changed class to id in html and reflected changes in css */
+#social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* changed class to id in html and reflected changes in css */
+#search-engine-optimization img {
     max-height: 200px;
     float: left;
     margin-right: 25px;
-
 }
 
-/* removed .online-reputation-management img class and created the .article-right img class for this particular article, image is placed on right side inside article */
-.article-right img {
+/* changed class to id in html and reflected changes in css */
+#online-reputation-management img {
     max-height: 200px;
     float: right;
     margin-left: 25px;
 }
 
-/* removed .search-engine-optimization img and .social-media-marketing h2 classes and created the .article-left h2 class for both articles */
-.article-left h2 {
+/* changed class to id in html and reflected changes in css */
+#social-media-marketing img {
+    max-height: 200px;
+    float: left;
+    margin-right: 25px;
+}
+
+/* changed class to id in html and reflected changes in css */
+#search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* removed .online-reputation-management h2 class and created the .article-right h2 class for this particular article */
-.article-right h2 {
+/* changed class to id in html and reflected changes in css */
+#online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* changed class to id in html and reflected changes in css */
+#social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
