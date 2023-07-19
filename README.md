@@ -2,11 +2,11 @@
 
 ## Description
 
-This challenge required me to to refactor an existing site to make it more accessible for people with disabilities on behalf of a marketing agency. I need to ensure that web accessibility is established across the site without changing the functionality of the website. The existing code will be improved through the use of HTML semantics and updating the stylesheet. I was able to practice how to use and update HTML and CSS and create a README.
+I am resubmitting this challenge on 07/18/2023! This challenge required me to to refactor an existing site to make it more accessible for people with disabilities on behalf of a marketing agency. I need to ensure that web accessibility is established across the site without changing the functionality of the website. The existing code will be improved through the use of HTML semantics and updating the stylesheet. I was able to practice how to use and update HTML and CSS and create a README.
 
 ## Installation
 
-The website provided was an existing site that is intended to function the same before and after refactoring. My responsibility is to create a new repository on gitHub, commit and push any changes to the repository, and deploy to GitHub Pages to view the website live. The updates to the code are available on index.html, located in the main folder and style.css, located in the assets folder.
+The website provided was an existing site that is intended to function the same before and after refactoring. My responsibility is to create a new repository on gitHub, commit and push any changes to the repository, and deploy to GitHub Pages to view the website live. The updates to the code are available on index.html, located in the main folder and style.css, located in the assets folder. The name of the repository has been changed to have a unique name.
 
 ## Usage
 
@@ -16,7 +16,7 @@ The website will be deployed with better web accessibility and consolidated and 
 ![image](https://github.com/dhl287/challenge-one/assets/133473429/0fc1737e-1698-444f-bcbd-f02febe50c85)
 
 The challenge has been deployed. 
-ADD DEPLOYED LINK
+https://dhl287.github.io/donnalee-code-refactor/#social-media-marketing
 
 ## Credits
 
