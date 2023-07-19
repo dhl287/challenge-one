@@ -1,4 +1,4 @@
-# Refactoring Hoseoin Website
+# donnalee-code-refactor
 
 ## Description
 
@@ -15,6 +15,9 @@ The website will be deployed with better web accessibility and consolidated and 
 ![image](https://github.com/dhl287/challenge-one/assets/133473429/ed225d57-653c-4fa3-96e9-cac569f6bf1e)
 ![image](https://github.com/dhl287/challenge-one/assets/133473429/0fc1737e-1698-444f-bcbd-f02febe50c85)
 
+The challenge has been deployed. 
+ADD DEPLOYED LINK
+
 ## Credits
 
 [The GitHub Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) was used to create the README template.
@@ -23,7 +26,7 @@ I also worked with [Frank Romero](https://github.com/FROMERO63) on refactoring t
 
 ## License
 
-There is no license associated with the Challenge-One project. 
+There is no license associated with donnalee-code-refactor. 
 
 ---
 
